@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * Programa que calcula a idade com base no ano atual e ano de nascimento.
+ */
 public class CalculadoraIdade {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
